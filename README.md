@@ -8,7 +8,9 @@ Full Stack Software Developer and Veteran :exclamation:
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/joseph-aquino-596862199/)
      - [Email](joseph.aquino.engineer@gmail.com)  
-- <img
-  src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/b17cd8ea-8f2f-48fe-b715-0a1e5078743a.svg"
+- Wondering about what I know? Check this out  
+
+<img
+  src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/b17cd8ea-8f2f-48fe-b715-0a1e5078743a.svg" width="200" height="200"
   alt="Alternative Text"
 />
