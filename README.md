@@ -18,7 +18,6 @@ Full Stack Software Developer and Veteran :exclamation:
                       src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/fa7bdec2-c2f6-4ed3-b895-91bf702f4f93.svg" width="500" height="500"
                       alt="Alternative Text"
                     />
-                    (https://github-readme-stats.vercel.app/api?username=InJkino)](https://github.com/anuraghazra/github-readme-stats)
                </p>
      </details>
 </hr>
