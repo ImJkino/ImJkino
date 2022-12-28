@@ -1,6 +1,4 @@
-<h1>Hi there 👋<h1>
-
-Here are some ideas to get you started:
+##Hi there 👋
 
 Full Stack Software Developer and Veteran :exclamation:
 
