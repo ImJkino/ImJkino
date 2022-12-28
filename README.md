@@ -11,6 +11,6 @@ Full Stack Software Developer and Veteran :exclamation:
 - Wondering about what I know? Check this out  
 
 <img
-  src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/b17cd8ea-8f2f-48fe-b715-0a1e5078743a.svg" width="200" height="200"
+  src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/b17cd8ea-8f2f-48fe-b715-0a1e5078743a.svg" width="500" height="500"
   alt="Alternative Text"
 />
