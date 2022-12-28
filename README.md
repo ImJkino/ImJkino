@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**ImJkino/ImJkino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there 👋<h1>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Full Stack Software Developer and Veteran :exclamation:
+
+- 🔭 I’m currently working on a project with Immersed. An app that teaches organizations about the dangers of the online world! 
+- 🌱 I’m consistantly striving to learn more and more as the tech world continues to push out newer and newer languaages, softwares, and solutions. 
+- 💬 Ask me about anything! If you have questions about how I did anything, ask and I will try to get back to you ASAP!
+- 📫 How to reach me: 
+     [LinkedIn](https://www.linkedin.com/in/joseph-aquino-596862199/)
+     
+     
+     
 -->
