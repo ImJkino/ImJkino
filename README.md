@@ -10,7 +10,14 @@ Full Stack Software Developer and Veteran :exclamation:
      - [Email](joseph.aquino.engineer@gmail.com)  
 - Wondering about what I know? Check this out :arrow_down:
 
-<img
-  src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/fa7bdec2-c2f6-4ed3-b895-91bf702f4f93.svg" width="500" height="500"
-  alt="Alternative Text"
-/>
+<hr>
+     <details>
+          <summary>Language Statistics...</summary><br/>
+               <p align="center">
+                    <img
+                      src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/fa7bdec2-c2f6-4ed3-b895-91bf702f4f93.svg" width="500" height="500"
+                      alt="Alternative Text"
+                    />
+               </p>
+     </details>
+</hr>
