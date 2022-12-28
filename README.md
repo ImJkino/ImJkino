@@ -9,6 +9,6 @@ Full Stack Software Developer and Veteran :exclamation:
      - [LinkedIn](https://www.linkedin.com/in/joseph-aquino-596862199/)
      - [Email](joseph.aquino.engineer@gmail.com)  
 - <img
-  src="https://github.com/ImJkino/WakaTime/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/ImJkino/.github/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
