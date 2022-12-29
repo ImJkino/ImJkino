@@ -15,7 +15,6 @@ Full Stack Software Developer and Veteran :exclamation:
      - [:email:](mailto:joseph.aquino.engineer@gmail.com?subject=[GitHub])
 - Wondering about what I know? Check this out :arrow_down:
 
-<hr>
      <details>
           <summary>Language Statistics...</summary><br/>
                <p align="center">
@@ -29,4 +28,4 @@ Full Stack Software Developer and Veteran :exclamation:
                     </p>
                          <p align="center">*Happy Octopus!*</p>
      </details>
-</hr>
+
