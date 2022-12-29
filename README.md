@@ -1,4 +1,6 @@
-<p align="center"> Hi there 👋</p>
+<p align="center"> Hi there 👋
+ 
+</p>
 <p align="center"  >
      <img                   src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coder_just_coding" height="300" width="500" />
 </P
@@ -22,5 +24,9 @@ Full Stack Software Developer and Veteran :exclamation:
                       alt="Alternative Text"
                     />
                </p>
+                    <p align="center">
+                         <img src="https://cdn.dribbble.com/users/1320653/screenshots/3492217/media/5009efbdc19e8cf760a8604c9d7eb14b.gif" alt="octopus" height="100" width="100" />
+                    </p>
+                         <p align="center">*Happy Octopus!</p>
      </details>
 </hr>
