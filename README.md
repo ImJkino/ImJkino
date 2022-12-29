@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github.com/ImJkino/ImJkino/blob/main/For%20Beginners%20(1).gif"
+<p align="center"> <img src="https://github.com/ImJkino/ImJkino/blob/main/For%20Beginners%20(1).gif#gh-light-mode-only"/>
+                   <img src="https://github.com/ImJkino/ImJkino/blob/main/For%20Beginners%20(2).gif#gh-dark-mode-only"/>
  
 </p>
 <p align="center"  >
