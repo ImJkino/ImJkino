@@ -1,4 +1,4 @@
-<p align="center"> Hi there 👋
+<p align="center"> <img src="https://github.com/ImJkino/ImJkino/blob/main/For%20Beginners.gif"
  
 </p>
 <p align="center"  >
