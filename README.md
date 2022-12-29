@@ -27,6 +27,6 @@ Full Stack Software Developer and Veteran :exclamation:
                     <p align="center">
                          <img src="https://cdn.dribbble.com/users/1320653/screenshots/3492217/media/5009efbdc19e8cf760a8604c9d7eb14b.gif" alt="octopus" height="100" width="100" />
                     </p>
-                         <p align="center">*Happy Octopus!</p>
+                         <p align="center">*Happy Octopus!*</p>
      </details>
 </hr>
