@@ -1,10 +1,11 @@
+<p align="center"  >
+     <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" alt="Coder_just_coding" height="350" width="900" />
+</P>
+
 <p align="center"> <img src="https://github.com/ImJkino/ImJkino/blob/main/For%20Beginners%20(1).gif#gh-dark-mode-only" >
                    <img src="https://github.com/ImJkino/ImJkino/blob/main/For%20Beginners%20(2).gif#gh-light-mode-only" >
  
 </p>
-<p align="center"  >
-     <img                   src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coder_just_coding" height="300" width="500" />
-</P>
 
 <p align="center">
 Full Stack Software Developer and Veteran :exclamation:
