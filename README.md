@@ -37,7 +37,7 @@ Full Stack Software Developer and Veteran :exclamation:
   </p>
    <p align="center">
         <img
-          src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/956a5915-8cdb-4e82-ada6-09ed599ed8e3.svg" width="500" height="500"
+          src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/012f0a48-9496-4209-9f2f-30bf92096634.svg" width="500" height="500"
           alt="Alternative Text"
         />
    </p>
