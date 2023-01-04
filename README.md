@@ -29,18 +29,11 @@ Full Stack Software Developer and Veteran :exclamation:
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-aquino-596862199/" target="blank"><img align="center"                                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-aquino-596862199/" height="20" width="30" /></a>
 </p>
-
-- ### :exclamation: Stats:  
+ 
 <hr/>
   <p align="center">
     <img src="https://wakatime.com/badge/user/1c6d8319-554f-4e3e-943b-2849e151563a/project/250bbbba-b539-495c-98a6-6ea6698910f6.svg" />
   </p>
-   <p align="center">
-        <img
-          src="https://wakatime.com/share/@1c6d8319-554f-4e3e-943b-2849e151563a/012f0a48-9496-4209-9f2f-30bf92096634.svg" width="500" height="500"
-          alt="Alternative Text"
-        />
-   </p>
     <p align="center">
          <img src="https://cdn.dribbble.com/users/1320653/screenshots/3492217/media/5009efbdc19e8cf760a8604c9d7eb14b.gif" alt="octopus" height="100" width="100" />
     </p>
