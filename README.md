@@ -21,7 +21,7 @@ Full Stack Software Developer and Veteran :exclamation:
    📫 How to reach me: 
 </p>
 <p align="center">
-     <a href="mailto:joseph.aquino.engineer@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     <a href="mailto:jkino.dev@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
     👊 Or Lets Connect: 
