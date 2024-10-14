@@ -11,7 +11,7 @@
 Full Stack Software Developer and Veteran :exclamation:
 </p>
 
-- 🔭 I’m currently working on a project with Immersed. An application that teaches organizations about the dangers of the online world! If you'd like to see some code snippets, [follow me :running:](https://github.com/ImJkino/Immersed)
+- 🔭 A freelancer with a passion for exploration, continued learning, and development. If you'd like to see some of the projects I've been a part of,  [follow me :running:](https://github.com/ImJkino)
 
 - 🌱 I’m consistantly striving to learn more as the tech world continues to push out newer and newer languaages, softwares, and solutions. 
 
