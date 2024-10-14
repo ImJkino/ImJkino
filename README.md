@@ -11,7 +11,7 @@
 Full Stack Software Developer and Veteran :exclamation:
 </p>
 
-- 🔭 A freelancer with a passion for exploration, continued learning, and development. If you'd like to see some of the projects I've been a part of,  [follow me :running:](https://github.com/ImJkino)
+- 🔭 A freelancer with a passion for exploration, continued learning, and development. If you'd like to see some of the projects I've been a part of,  [follow me :running:](https://github.com/ImJkino?tab=repositories)
 
 - 🌱 I’m consistantly striving to learn more as the tech world continues to push out newer and newer languaages, softwares, and solutions. 
 
